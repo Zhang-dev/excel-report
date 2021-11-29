@@ -1,6 +1,6 @@
-# excel-report
+# Excel Report
 
-## python environment
+## Python environment
 1. create your virtual environment
     ```$ python -m venv venv```
 2. activate your environment
@@ -8,7 +8,7 @@
 3. install dependencies in your virtual enviroment
     ```$ pip install -r requirements.txt```
 
-## setup
+## Setup
 1. create .env file in the project root directory.
 2. create the following environment variables in the .env file:
     ```
@@ -21,5 +21,5 @@
     ```
 3. Copy your excel file to be refreshed in the root directory
 
-## execution
+## Execution
 ./upload.sh
